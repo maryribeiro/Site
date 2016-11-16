@@ -26,14 +26,14 @@
                     }
                     ?>
                 </div>
-                
-                    
+                <br>
+                <hr>
                 </div>
             </div>
             <div id="footer">
-                <span>
+                <center>
                     Todos os direitos reservados - &copy; - 2016.
-                </span>
+                </center>
             </div>
         </div>
     </body>
