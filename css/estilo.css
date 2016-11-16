@@ -39,10 +39,11 @@ body {
     float: left;
 }
 
-#container #content #content-banner {
+#container #content #banner {
     width: 30%;
     float: left;
 }
+
 
 #container #footer {
     width: 100%;
