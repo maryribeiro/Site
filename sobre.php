@@ -1,11 +1,4 @@
 
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>sobre</title>
-    </head>
-    <body>
-        <br>
         <form method="post">
             <center><fieldset>
                     <h1>Um pouco sobre a empresa</h1>
@@ -30,5 +23,3 @@
                 <br>
               </fieldset></center>
       </form>
-     </body>
-</html>

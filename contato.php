@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title> Contato </title>
-    </head>
-    <body>
-        <br>
-        <br>
-        <br>
-        <form method="post">
-            <center><fieldset>
+<div id="contato">
+    <form method="post">
+        <center><fieldset>
                 Nome:
-               <br>
+                <br>
                 <input type="text" name="nome"/>
                 <br>
                 <br>
@@ -28,6 +19,5 @@
                 <input type="submit" name="enviar"/>
                 <br>
             </fieldset></center>
-        </form>
-   </body>
-</html>
+    </form>
+</div>
