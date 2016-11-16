@@ -27,11 +27,11 @@
                     ?>
                 </div>
                 <div id="banner">
-                    
+                    <img src="img/Banner.png"/>
                 </div>
            
             <br>
-            <center> <h1> Bem-Vindo Ao Site </h1></center>
+           
             <br>
         
             
