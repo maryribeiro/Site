@@ -29,9 +29,7 @@
                 <br>
                 <hr>
                 </div>
-            <div id="content-banner">
-                <img src="img/banner1.jpg"/>
-                </div>
+           
             <br>
             <center> <h1> Bem-Vindo Ao Site </h1></center>
             <br>
