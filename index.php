@@ -2,13 +2,13 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title> Infofelb</title>
+        <title> Infofelb </title>
         <link rel="stylesheet" href="css/estilo.css" type="text/css"/>
     </head>
     <body>
         <div id="container">
             <div id="header">
-                <img src="img/logo.png">
+                <img src="img/infofelb.jpg">
             </div>
             <div id="menu">
                 <?php
@@ -29,6 +29,14 @@
                 <br>
                 <hr>
                 </div>
+            <div id="content-banner">
+                <img src="img/banner1.jpg"/>
+                </div>
+            <br>
+            <center> <h1> Bem-Vindo Ao Site </h1></center>
+            <br>
+        
+            
             </div>
             <div id="footer">
                 <center>

@@ -75,6 +75,24 @@ body {
 #container #menu ul li a:hover {
     background-color: #111;
 }
+    
+    /***CSS PARA O BANNER ***/
+
+#container #content #content-banner img {
+    width:100%;
+}
+
+#container #footer {
+    background-color: #333;
+    color:#fff;
+    text-align: center;
+}
+
+#container #footer span { 
+    position: relative;
+    top: 40%;
+}
+
 
 
 
