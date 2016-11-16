@@ -29,10 +29,5 @@
                 <br>
             </fieldset></center>
         </form>
-        <?php
-        
-        
-        
-        ?>
-    </body>
+   </body>
 </html>
