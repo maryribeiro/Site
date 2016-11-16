@@ -26,8 +26,8 @@
                     }
                     ?>
                 </div>
-                <br>
-                <hr>
+                <div id="banner">
+                    
                 </div>
             </div>
             <div id="footer">
