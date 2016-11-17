@@ -45,7 +45,9 @@
                     <li><a href="?pg=Serviços">6</a></li>
                     <li><a href="#">»</a></li>
                 </ul></center>
+            <br>
             <div id="footer">
+                <br>
                 <center>
                     Todos os direitos reservados - &copy; - 2016.
                 </center>
