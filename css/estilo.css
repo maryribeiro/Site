@@ -5,7 +5,7 @@
 }
 
 body {
-  
+
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
 }
@@ -81,16 +81,15 @@ body {
 #container #menu ul li a:hover {
     background-color: #111;
 }
-    
-    /***CSS PARA O BANNER ***/
+
+/***CSS PARA O BANNER ***/
 
 #container #content #content-banner img {
     width:100%;
 }
 
 #container #footer {
-    background-color: #333;
-    color:#fff;
+   
     text-align: center;
 }
 
@@ -99,15 +98,17 @@ body {
     top: 40%;
 }
 
-/**Imagens home **/
+#img {
+  
 
+}
 
-.dropdown {
+ .empresa {
     position: relative;
     display: inline-block;
 }
 
-.dropdown-content {
+.empresa-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
@@ -115,12 +116,28 @@ body {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.dropdown:hover .dropdown-content {
+.empresa:hover .empresa-content {
     display: block;
 }
 
-.desc {
-    padding: 15px;
-    text-align: center;
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
 }
 
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+ul.pagination li a:hover:not(.active) {background-color: #ddd;}

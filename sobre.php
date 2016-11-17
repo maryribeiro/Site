@@ -1,11 +1,15 @@
 <div id="sobre">
     <form method="post">
-        <center><fieldset>
+        <center>
                 <h1>Um pouco sobre a empresa</h1>
-            </fieldset></center>
+            </center>
         <br>
+        <div id="img">
+            <center><img src="img/infoflb.jpg"/></center>
+        </div>
         <br> 
-        <center><fieldset>
+        
+        <center> <fieldset>
                 <br>
                 <p>Infofelb uma empresa conceituada e capacitada para fornecer a melhor
                     solução e assessoria em informática para sua empresa.
