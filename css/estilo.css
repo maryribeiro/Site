@@ -1,75 +1,52 @@
-
 * {
     margin: 0px;
     padding: 0px;
 }
-
 body {
-
+    background-color: #BEBEBE;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
 }
-
 #container {
     width: 1200px;    
-    background-color: #fff;
-    margin: 50px auto;
+    background-color: #BEBEBE;
+    margin: 10px auto;
 }
-
 #container #header {
-    width: 100%;
-    height: 200px;
+    width: 170%;
+    height: 130px;
 }
-
-#container #header img {
-    width: 100%;
-    height: 200px;
-}
-
 #container #menu {
     width: 100%;
 }
-
 #container #content {
     width: 100%;    
 }
-
 #container #content #content-main {
     width: 70%;
     float: left;
 }
-
-#container #content #banner {
+#container #content #content-banner {
     width: 30%;
     float: left;
 }
 
-#container #contato {
-    margin-top: 15%;
-}
-#container #sobre {
-    margin-top: 16%;
-}
 #container #footer {
     width: 100%;
     height: 80px;
     clear: both;
 }
-
 /**CSS PARA PARA O MENU**/
-
 #container #menu ul {
     list-style-type: none;
     margin:0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #000;
 }
-
 #container #menu ul li {
     float: left;
 }
-
 #container #menu ul li a {
     display: block;
     color:white;
@@ -77,54 +54,44 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 #container #menu ul li a:hover {
-    background-color: #111;
+    background-color: #333;
+}
+
+/** PAGINA contato**/
+
+#contato {
+    margin: 20%;
+    border:1px solid #BEBEBE;
+    color: #000;
+   
+}
+#contat {
+    margin: 10%;
+    padding: 10%;
+    
+}
+.fonte {
+    font-family: Bradley Hand ITC;
 }
 
 /***CSS PARA O BANNER ***/
-
 #container #content #content-banner img {
     width:100%;
 }
-
 #container #footer {
-   
+    background-color: #BEBEBE;
+    color:#000;
     text-align: center;
 }
 
-#container #footer span { 
-    position: relative;
-    top: 40%;
-}
-
-#img {
-  
-
-}
-
- .empresa {
-    position: relative;
-    display: inline-block;
-}
-
-.empresa-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
-
-.empresa:hover .empresa-content {
-    display: block;
-}
-
+/**Para a paginaçao no rodape **/
 ul.pagination {
     display: inline-block;
     padding: 0;
     margin: 0;
 }
+
 
 ul.pagination li {display: inline;}
 
@@ -136,12 +103,8 @@ ul.pagination li a {
 }
 
 ul.pagination li a.active {
-    background-color: #4CAF50;
+    background-color: #000;
     color: white;
 }
 
 ul.pagination li a:hover:not(.active) {background-color: #ddd;}
-
-.coluna{
-    
-}

@@ -7,4 +7,4 @@
 </div>
 
 <h2> Produtos </h2>
-<img src="img/comp.jpg"/>
+<img src="img/comp.jpg"width="300" height="200"/>

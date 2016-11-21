@@ -1,15 +1,12 @@
 <div id="sobre">
     <form method="post">
-        <center>
-                <h1>Um pouco sobre a empresa</h1>
-            </center>
         <br>
         <div id="img">
-            <center><img src="img/infoflb.jpg"/></center>
+            <center> <img src="img/logo.png" width="200" height="100"></center>
         </div>
         <br> 
         
-        <center> <fieldset>
+        <center> 
                 <br>
                 <p>Infofelb uma empresa conceituada e capacitada para fornecer a melhor
                     solução e assessoria em informática para sua empresa.
@@ -25,6 +22,6 @@
                     para oferecer à sua empresa a mesma qualidade de serviços exigida por empresas 
                     de grande porte a preços competitivos.</p>
                 <br>
-            </fieldset></center>
+           </center>
     </form>
 </div>
