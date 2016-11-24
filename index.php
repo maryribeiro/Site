@@ -27,19 +27,9 @@
                         }
                     ?>
                 </div>
-                <div id="content-banner">
-                    <img src="img/banner.jpg"/>
-                </div>
+                
             </div>
-             <center><ul class="pagination">
-                    <li><a href="#">«</a></li>
-                    <li><a class="active" href="?pg=home">1</a></li>
-                    <li><a href="?pg=sobre">2</a></li>
-                    <li><a href="?pg=produtos">3</a></li>
-                    <li><a href="?pg=serviços">4</a></li>
-                    <li><a href="?pg=contato">5</a></li>
-                    <li><a href="#">»</a></li>
-                </ul></center>
+             
             <br>
             <div id="footer"> 
                  <span>
