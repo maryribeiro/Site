@@ -69,7 +69,6 @@
             </tr>
             <tr>
                 <td>5° Passo</td>
-                <td>Continua sa porra carai</td>
             </tr>
         </table>
     </center>
