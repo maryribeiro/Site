@@ -8,7 +8,6 @@
     <body>
         <div id="container">
             <div id="header">
-                
                 <img src="img/logo.png"width=250"height="120">
             </div>
             <div id="menu">
