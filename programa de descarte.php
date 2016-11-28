@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
     </head>
     <body>
     <center><h1>PROGRAMA DE DESCARTE</h1></center>
