@@ -5,4 +5,5 @@
     <li><a href="?pg=servicos">Serviços</a></li>
     <li><a href="?pg=contato">Contato</a></li>    
     <li><a href="?pg=tutorial">Tutorial Limpeza</a></li> 
+    <li><a href="?pg=programa de descarte">programa de descarte</a></li> 
 </ul>
