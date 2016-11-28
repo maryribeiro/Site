@@ -69,7 +69,35 @@
             </tr>
             <tr>
                 <td>5° Passo</td>
+                <td>
+                    <p id="texto">Com um pincel de cerdas longas seco, comece retirando toda a poeira da placa-mãe.</p>
+                    <p id="texto">Faça movimentos delicados e não esfregue com força, pois isso pode danificar os circuitos;</p>
+                </td>
+                <td><img src="img/limpando.jpg" width="300" height="200"></td>
             </tr>
+            <tr>
+            <td>6° Passo</td>
+                <td>
+                    <p id="texto">Ao final deste período, dê um jato de limpa-contato sobre toda a placa-mãe.</p>
+                    <p id="texto">O produto, que é destinado a este fim, recupera as partes oxidadas dos contatos;</p>
+                    </td>
+                    <td><img src="img/8.jpg" width="300" height="200"></td>
+            </tr>
+            <tr>
+            <td>7° Passo</td>
+                <td>
+                    <p id="text">Agora a placa-mãe está completamente limpa, mas é preciso esperar que o limpa-contato fique seco.</p>
+                    <p id="text">Aguarde cerca de 30 minutos para garantir que o produto evapore;</p>
+                    </td>
+                    <td><img src="img/9.jpg" width="300" height="200"></td>
+            </tr>
+            <tr>  
+              <td>8° Passo</td>
+                <td>
+                    <p id="text"> Por fim, feche o gabinete. Sua placa-mãe estará limpa e terá maior vida útil.</p>
+               </td>
+               <td><img src="img/gabinete fechado.jpg" width="300" height="200"></td>
+            </tr>     
         </table>
     </center>
 </body>
