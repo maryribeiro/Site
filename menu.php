@@ -6,4 +6,6 @@
     <li><a href="?pg=contato">Contato</a></li>    
     <li><a href="?pg=tutorial">Tutorial Limpeza</a></li> 
     <li><a href="?pg=Programa de descarte">Programa de descarte</a></li> 
+    <li><a href="?pg=marcas">Marcas</a></li> 
+    
 </ul>

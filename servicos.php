@@ -7,11 +7,11 @@
                 <br>
                 <br>
                 
-     <div>1-formataçao de computadores e celulares , smartphones.
+     <div>1-Formataçao de computadores e celulares , smartphones.
         <br>
-        <br>   2-montagem e manuntenção.
+        <br>   2-Montagem e manuntenção.
         <br>
-         <br> 3-assistencia tecnica domiciliar.
+         <br> 3-Assistencia tecnica domiciliar.
         <br>
         <br>  4-​Cabeamento Estruturado
         <br>
