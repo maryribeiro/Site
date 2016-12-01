@@ -1,12 +1,61 @@
-<!DOCTYPE html>
-<html>
-
-<div class="coluna">
-
-<p>In this example, the image will float to the right in the paragraph, and the text in the paragraph will wrap around the image.</p>
-
-<p><img src="w3css.gif" alt="W3Schools.com" width="100" height="140">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+    <br>
+    <center><h1>   Serviços</h1></center>
+    <br>
+    
+    <center><img src="img/ma.jpg" style="width:400px;height:250px; margin-left: 150px;"></center>
+                <br>
+                <br>
+                <br>
+                
+     <div>1-formataçao de computadores e celulares , smartphones.
+        <br>
+        <br>   2-montagem e manuntenção.
+        <br>
+         <br> 3-assistencia tecnica domiciliar.
+        <br>
+        <br>  4-​Cabeamento Estruturado
+        <br>
+         <br> 5-Desenvolvimento de Websites
+        <br>
+         <br> 6-Instalação de cabeamento (Cabos, RJ-45 fêmea, canaletas, etc.)
+        <br>
+         <br> 7-Configuração de computadores na rede
+        <br>
+         <br> 8-Conserto de ponto de rede
+        <br>
+         <br> 9-Conserto de configuração de computador na rede
+        <br>
+         <br> 10-Instalação de impressora na rede
+        <br>
+        <br>  11-Compartilhamento de impressora em rede
+        <br>
+         <br> 12-Instalação de rede sem fio
+        <br>
+       <br>   13-Configuração de rede sem fio
+        <br>
+       <br>   14-Manutenção preventiva
+        <br>
+        <br>  15-Manutenção corretiva
+        <br>
+        <br>  16-Troca de peças
+        <br>
+         <br> 17-Instalação de novas peças
+        <br>
+        <br>  18-Instalação de impressora
+        <br>
+         <br> 19-Instalação de sistema operacional Windows (com programas)
+        <br>
+         <br> 20-Instalação de sistema operacional Linux
+        <br>
+         <br> 21-Instalação de sistema operacional Windows
+        <br>
+        <br>  22-Instalação de programas
+        <br>
+        <br>  23-Retirada de Vírus, Spyware e spam
+        <br>
+         <br> 24-Instalação de antivírus
+                
 </div>
-</html>
-
+   
+    
+   

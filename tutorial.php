@@ -90,6 +90,7 @@
                     <p id="text">Aguarde cerca de 30 minutos para garantir que o produto evapore;</p>
                     </td>
                     <td><img src="img/9.jpg" width="300" height="200"></td>
+          
             </tr>
             <tr>  
               <td>8° Passo</td>
