@@ -1,3 +1,9 @@
+<center><img src="img/si.jpg" width="1000" height="400"/></center>
+<br>
+<br>
+<div id="cor">
+    <center><h1>PROMOÇÃO</h1></center>
+</div>
 <div class="promocao">
     <div class="img">
         <a href="#">
